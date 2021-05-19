@@ -1,0 +1,85 @@
+#background2
+{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #31708f;
+ background: url(Images/back.jpg) no-repeat center center;
+ background-size: cover; 
+ }   
+ #background3
+{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #31708f;
+ background: url(Images/back3.jpg) no-repeat center center;
+ background-size: cover; 
+ }   
+#background4
+{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #31708f;
+ background: url(Images/back4.jpg) no-repeat center center;
+ background-size: cover; 
+ }  
+ #background5
+ {
+  padding-top: 75px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #31708f;
+  background: url(Images/back5.jpg) no-repeat center center;
+  background-size: cover; 
+  }   
+  *
+ {
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      outline:none;
+      font-family:sans-serif;
+ }
+.contact-form
+{
+    max-width:550px;
+    margin:0 auto;
+    background: transparent;
+    padding:30px;
+    border-radius:5px;
+    display: flex;
+    
+}
+.msg textarea
+{
+    margin:10px 0;
+    background:transparent;
+    border:0;
+    border-bottom: 2px solid #e5ecfd;
+    border-left: 2px solid #e5ecfd;
+    padding:10px;
+    color:black;
+    width:100%;
+    height:212px;
+    
+}
+::-webkit-input-placeholder
+{
+    color:black;
+}
+::-moz-input-placeholder
+{
+    color:black;
+}
+::-ms-input-placeholder
+{
+    color:black;
+}
+.btn
+{
+    text-align: center;
+    padding:15px;
+    border-radius:5px;
+}
